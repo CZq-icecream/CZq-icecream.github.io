@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[设计模式README]]></title>
     <url>%2F2019%2F05%2F26%2F%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%2FREADME%2F</url>
-    <content type="text"><![CDATA[说明用于学习设计模式 前置知识 UML类图 设计模式 Iterator(迭代器)模式 [Adapter(适配器)模式]() [Template Method(模版)模式]() [Factory Method(工厂)模式]() [Singleton(单例)模式]() [Prototype(原型)模式]() [Builder(建造者)模式]() [Abstract Factory(抽象工厂)模式]() [Bridge(桥)模式]()]]></content>
+    <content type="text"><![CDATA[说明用于学习设计模式 前置知识 UML类图 设计模式 Iterator(迭代器)模式 Adapter(适配器)模式 Template Method(模版)模式 Factory Method(工厂)模式 Singleton(单例)模式 Prototype(原型)模式 Builder(建造者)模式 Abstract Factory(抽象工厂)模式 Bridge(桥)模式]]></content>
       <categories>
         <category>-设计模式</category>
       </categories>
